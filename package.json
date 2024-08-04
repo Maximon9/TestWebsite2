@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "Just testing stuff",
     "main": "dist/index.js",
+    "scripts": {
+        "dev": "node ./dist/index.js"
+    },
     "keywords": [],
     "author": "",
     "license": "ISC",
