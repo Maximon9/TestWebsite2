@@ -1,0 +1,17 @@
+{
+    "name": "mytestwebsite2",
+    "version": "1.0.0",
+    "description": "Just testing stuff",
+    "main": "dist/index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "engines": {
+        "node": ">= 16.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^22.1.0",
+        "typescript": "^5.5.4"
+    }
+}
